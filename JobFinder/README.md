@@ -5,7 +5,7 @@
 
 The React Native Job Search App is a stellar mobile application that enables users to search for job listings, browse through exciting job opportunities, and apply for positions they find intriguing. This app leverages the power of the Rapid API 🚀 to fetch job data from various sources, providing users with an out-of-this-world selection of career options.
 
-### Features 🌈
+### Features 
 
 - 📱 User-friendly interface for seamless job searching.
 - ⚡ Real-time job search with lightning-fast filtering options.
@@ -25,13 +25,7 @@ The React Native Job Search App is a stellar mobile application that enables use
 
 </br>
 
-## Contributing 🌠
-Join our intergalactic team and contribute to this project:
-🌌 Fork the project.
-🌠 Create a new branch for your feature or bug fix: git checkout -b feature/your-feature-name.
-🚀 Make your changes and commit them: git commit -m 'Add new feature'.
-⭐ Push to the branch: git push origin feature/your-feature-name.
-🪐 Create a pull request detailing your changes.
+
 
 
 ## License 📜
